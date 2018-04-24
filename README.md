@@ -1,0 +1,2 @@
+# tugasGIS
+Suke-suke jelah
